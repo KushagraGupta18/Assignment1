@@ -1,0 +1,180 @@
+.NavBar{
+
+    width: 100vw;
+    height: 11vh;
+    background-color: black;
+
+    display: flex;
+    justify-content: space-between;
+
+    border-bottom: 0.1px solid #d3ad7f;
+
+    align-items: center;
+    position: fixed;
+
+    top: 0px;
+    right: 0px;
+    left: 0px;
+
+}
+
+#top{
+    margin-top: 10px;
+    margin-left: 300px;
+    width: 80px;
+    height: 60px;
+    
+}
+*{
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.NavBar h1{
+
+    color: white;
+    margin-right: 1400px;
+
+    
+}
+
+.NavEle{
+   
+   width: 75%;
+   position: absolute;
+   margin-left: 1000px;
+   
+}
+
+.NavEle span {
+    color: white;
+    cursor: default;
+}
+
+.NavEle a{
+
+    color:white;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+.NavEle a:hover{
+
+    color: #00ff00;
+}
+
+.NavEle {
+
+    border-radius: 3px;
+}
+
+
+
+.NavEle button{
+
+    width: 150px;
+    height: 70px;
+    color: #29d9d5;
+    border:2px solid  #29d9d5;
+    background-color: rgb(36, 13, 13);
+    border-radius: 25px;
+    font-size: 15px;
+
+    margin-left: 240px;
+}
+#sut1{
+    background-size:100% 100%;
+    border-radius: 5px;
+    height:700px;
+    width:100%;
+    padding:10px;
+    background-color:palegoldenrod;
+    background: url(https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/08/spotify-home-page-1660115575.jpg);
+    background-repeat:no-repeat ;
+}
+img{
+    border-radius: 10px;
+    margin-left: 135px;
+}
+footer{
+    background:black;
+}
+.hello{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+    
+}
+.hello1{
+    padding-left:20px;
+    color:white;
+    text-align: left;
+}
+.hello2{
+    padding-left:20px;
+    color:white;
+    text-align: left;
+}
+.hello3{
+    padding-left:20px;
+    color:white;
+    text-align: left;
+}
+.hello4{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.hello5{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.hello6{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+.hello7{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+.hello8{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+.hello9{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+.hii{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.hii1{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.hii2{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.hii3{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.hit1{
+    padding-left: 50px;
+}
